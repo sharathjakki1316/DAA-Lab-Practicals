@@ -1,4 +1,4 @@
-# 📘 Practical 5: Implementation of 0/1 Knapsack Problem using Dynamic Programming
+#   Knapsack Problem using Dynamic Programming Algorithm
 
 ## Aim
 
