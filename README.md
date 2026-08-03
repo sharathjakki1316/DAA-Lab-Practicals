@@ -56,7 +56,7 @@ DAA-Lab-Practicals/
 | Practical 2 | Linear Search and Binary Search | ✅ Completed |
 | Practical 3 | Max-Heap Sort | ✅ Completed |
 | Practical 4 | Factorial using Iterative and Recursive Method | ✅ Completed |
-| Practical 5 | Knapsack Problem using Dynamic Programming | ⏳ In Progress |
+| Practical 5 | Knapsack Problem using Dynamic Programming | ✅ Completed |
 | Practical 6 | Matrix Chain Multiplication using Dynamic Programming | ⏳ In Progress |
 | Practical 7 | Making Change Problem using Dynamic Programming | ⏳ In Progress |
 | Practical 8 | Graph Traversal (DFS and BFS) | ⏳ In Progress |
